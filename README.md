@@ -1,4 +1,4 @@
-# Drum Machine
+# BeatMo Drum Machine
 
 [Demo](https://larrytun.github.io/Javascript-Team-Drum-Machine/)
 
