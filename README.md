@@ -1,8 +1,6 @@
 # Drum Machine
 
-#### _Epicodus: Ember Extended, Group Project, 11-7-16_
-
-#### By _** Blake Scala, Caleb Stevenson, Jeremy Fryd, Larry Tunseth**_
+[Demo](https://larrytun.github.io/Javascript-Team-Drum-Machine/)
 
 ### Specs
 | Behavior                                             | Input |     Output             |
@@ -23,8 +21,6 @@ Users can toggle instrument steps and play tracks at specific beats per minute.
 
 ## Setup/Installation Requirements
 
-Available through github-pages at: https://larrytun.github.io/Javascript-Team-Drum-Machine/
-
 To run locally:
 * _Clone this repository to your desktop_
 * _run npm install and bower install in the home directory_
@@ -34,15 +30,11 @@ To run locally:
 
 Step toggles on/off without a click
 
-## Support and contact details
-
-Caleb Stevenson - cgrahamstevenson@gmail.com
-
-
 ## Technologies Used
 
 * HTML
 * Bower
+* Node.js
 * SASS
 * Gulp
 
@@ -50,4 +42,4 @@ Caleb Stevenson - cgrahamstevenson@gmail.com
 
 *This webpage is licensed under the GPL license.*
 
-Copyright (c) 2016 **Blake, Caleb, Jeremy, Larry**
+Copyright (c) 2016 **Blake Scala, Caleb Stevensen, Jeremy Fryd, Larry Tunseth**
